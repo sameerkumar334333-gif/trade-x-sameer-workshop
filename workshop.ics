@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Trade X Sameer//Beginner Workshop//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:trading-zero-20261011@tradexsameer
+DTSTAMP:20261010T120000Z
+DTSTART:20261011T123000Z
+SUMMARY:How to Start Trading from Zero - Sameer Sharma
+DESCRIPTION:Free beginner workshop with Sameer Sharma. Joining link will be shared in the Trade X Sameer Telegram channel: https://t.me/tradexsameer
+LOCATION:Online - joining link on Telegram
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,7 @@
+1.jpg
+landing-page.zip
+.openai/
+.env
+.env.*
+!.env.example
+node_modules/
